@@ -1,18 +1,18 @@
-## compliance-trestle-profile
+## compliance-trestle-component-definition
 
-compliance-trestle repository for agile authoring of profile
+compliance-trestle repository for agile authoring of component definition
 
-Prerequisite: [profile template](https://github.com/IBM/compliance-trestle-template-profile) has been used to [create profile repo](https://github.com/IBM/compliance-trestle-agile-authoring/blob/main/README.create-repo-profile.md) for agile authoring.
+Prerequisite: [component-definition template](https://github.com/IBM/compliance-trestle-template-component-definition) has been used to [create component-definition repo](https://github.com/IBM/compliance-trestle-agile-authoring/blob/main/README.create-repo-component-definition.md) for agile authoring.
 
 
-- [view profile markdown](#view-profile-markdown)
-- [update profile](#update-profile)
+- [view component-definition markdown](#view-component-definition-markdown)
+- [update component-definition](#update-component-definition)
 
 -----
 
-##### view profile markdown
+##### view component-definition markdown
 
-Navigate to the `md_profiles` folder, then descend to the control of interest.
+Navigate to the `md_component-definitions` folder, then descend to the control of interest.
 
 <details>
 <summary>visual</summary>
@@ -21,24 +21,24 @@ Navigate to the `md_profiles` folder, then descend to the control of interest.
 
 -----
 
-##### update profile
+##### update component-definition
 
-<img src="drawio/update-profile.drawio.png">
+<img src="drawio/update-component-definition.drawio.png">
 
-Steps to modify the profile repository with an updated profile are given below:
+Steps to modify the component-definition repository with an updated component-definition are given below:
 
-###### 1. navigate to develop branch location of profile in repo.
+###### 1. navigate to develop branch location of component-definition in repo.
 
 <details>
 <summary>visual</summary>
-<img src="drawio/ss.update-profile.drawio.png" width="500" height="600">
+<img src="drawio/ss.update-component-definition.drawio.png" width="500" height="600">
 </details>
 
-###### 2. copy updated profile to repo.
+###### 2. copy updated component-definition to repo.
 
 <details>
 <summary>visual</summary>
-<img src="drawio/ss.update-profile.drawio.png" width="500" height="600">
+<img src="drawio/ss.update-component-definition.drawio.png" width="500" height="600">
 </details>
 
 ###### 3. compare & pull request
@@ -75,7 +75,7 @@ Steps to modify the profile repository with an updated profile are given below:
 
 ##### references
 
-- [documentation: setup profile repo](https://github.com/IBM/compliance-trestle-agile-authoring/blob/main/README.create-repo-profile.md)
+- [documentation: setup component-definition repo](https://github.com/IBM/compliance-trestle-agile-authoring/blob/main/README.create-repo-component-definition.md)
 
 - [documentation: agile authoring](https://github.com/IBM/compliance-trestle-agile-authoring#compliance-trestle-agile-authoring)
 
